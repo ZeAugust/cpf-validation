@@ -1,6 +1,6 @@
 # Validação de CPF
 
-Program desenvolvido a partir de exercicio proposto no curso JavaScript e TypeScript COMPLETO do Básico ao Avançado, ministrado pelo professor Otávio Luiz Miranda.
+Program desenvolvido a partir de exercicio proposto no curso JavaScript e TypeScript COMPLETO do Básico ao Avançado, ministrado pelo professor Luiz Otávio Miranda.
 
 ## Sobre o programa
 
